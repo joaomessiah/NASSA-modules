@@ -53,7 +53,7 @@ docsDir: documentation/
 inputs:
   - name: orbis.graphml
     type: file
-    description: available under netlogo_implementation/ . A .graphml file consisting of nodes representing Roman settlements and junctions, and edges representing transport routes. From ORBIS https://purl.stanford.edu/mn425tz9757
+    description: A .graphml file available for each implementation, consisting of nodes representing Roman settlements and junctions, and edges representing transport routes. From ORBIS https://purl.stanford.edu/mn425tz9757
 outputs:
   - name: Network topology
     type: network

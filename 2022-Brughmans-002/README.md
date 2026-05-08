@@ -12,7 +12,7 @@ NetLogo version used: 6.0.1
 Extension used: nw (pre-packaged with Netlogo 6.0.1)  
 https://ccl.northwestern.edu/netlogo/6.0-BETA1/docs/nw.html 
 
-Tutorial document available as a PDF in the [netlogo_implementtion folder](netlogo_implementation/Netlogo_Roman-transport_v0.1.pdf)
+Tutorial document available as a PDF in the [netlogo_implemention folder](netlogo_implementation/Netlogo_Roman-transport_v0.1.pdf)
 
 Cite this tutorial as:
 Brughmans, T. (2018). Importing a Roman Transport network with Netlogo, Tutorial, https://archaeologicalnetworks.wordpress.com/resources/#transport  .

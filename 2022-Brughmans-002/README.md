@@ -5,11 +5,11 @@
 
 ## Further information
 
-By Tom Brughmans
-First version: Summer 2018
-This version created 01/09/2018
-NetLogo version used: 6.0.1
-Extension used: nw (pre-packaged with Netlogo 6.0.1)
+By Tom Brughmans  
+First version: Summer 2018  
+This version created 01/09/2018  
+NetLogo version used: 6.0.1  
+Extension used: nw (pre-packaged with Netlogo 6.0.1)  
 https://ccl.northwestern.edu/netlogo/6.0-BETA1/docs/nw.html 
 
 Tutorial document available as a PDF in the [netlogo_implementtion folder](netlogo_implementation/Netlogo_Roman-transport_v0.1.pdf)
